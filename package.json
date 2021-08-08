@@ -1,0 +1,16 @@
+{
+  "name": "new-img-loading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^8.9.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}
